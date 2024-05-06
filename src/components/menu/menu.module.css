@@ -1,0 +1,12 @@
+.menu {
+  /* max-width: 1000px; */
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+}
+
+.listItem {
+  max-width: 340px;
+}
+
+.button {
+}
